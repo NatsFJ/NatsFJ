@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&fontColor=ffffff" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=28&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Natanael+Félix" alt="Name" />
-  
-  <p>Frontend Developer · Brasil 🇧🇷</p>
+<br/>
+
+# Natanael Félix
+
+<p>Frontend Developer · Brasil 🇧🇷</p>
 
   <a href="https://linkedin.com/in/NatsFJ"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
