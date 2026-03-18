@@ -19,7 +19,7 @@
 
 Frontend Developer em formação. Comecei no hardware, aprendi como as máquinas funcionam por dentro — e hoje uso isso pra escrever código que faz sentido de verdade.
 
-Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Estou buscando estágio em Frontend pra começar a contribuir de verdade.
+Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu objetivo é me tornar Fullstack — estou buscando estágio em Frontend pra dar o primeiro passo com consistência.
 
 <br/>
 
