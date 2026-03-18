@@ -1,62 +1,67 @@
 # 👋 Olá, eu sou o Natanael Félix
 
 💻 Estudante de Desenvolvimento Full Stack  
-🚀 Atualmente focado em Front-End  
+🚀 Atualmente focado em Front-End (JavaScript, HTML, CSS e React)  
 🔧 Fundador da assistência técnica Natec  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e resolução de problemas.  
-No momento estou focado em evoluir no Front-End, criando projetos práticos e estudando constantemente, mas também tenho interesse em expandir para outras áreas do desenvolvimento no futuro.
+Tenho grande interesse por tecnologia e por resolver problemas na prática.  
+Atualmente estou focado em evoluir no Front-End, desenvolvendo projetos e aprimorando minhas habilidades, mas pretendo expandir meus conhecimentos para outras áreas no futuro.
 
-Minha experiência com a assistência técnica me ajudou a desenvolver raciocínio lógico, resolução de problemas e contato direto com clientes.
+Também possuo experiência prática com tecnologia através da minha assistência técnica, o que me proporcionou contato direto com clientes, diagnóstico de problemas e soluções no dia a dia.
 
 ---
 
 ## 🛠️ Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![React](https://img.shields.io/badge/React-61DAFB)
+<div style="display: inline_block"><br>
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+<div>
+  <a href="https://github.com/NatsFJ">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatsFJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsFJ&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
-🔹 Task Manager  
-Gerenciador de tarefas com JavaScript puro, com funcionalidades de adicionar, remover e concluir tarefas.
+🔹 Gerenciador de tarefas  
+Aplicação desenvolvida com HTML, CSS e JavaScript para organização de tarefas do dia a dia.
 
-👉 (coloque aqui o link do projeto)
+👉 https://github.com/NatsFJ/Gerenciador-de-tarefas
 
 ---
 
 ## 📈 Em evolução
 
-- React  
-- TypeScript  
-- Desenvolvimento Front-End moderno  
+Atualmente estudando:
+
+- React
+- TypeScript
+- Desenvolvimento Front-End moderno
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (coloque aqui)
-- Email: (coloque aqui)
+- LinkedIn: (adicione aqui)
+- Email: (adicione aqui)
 
 ---
 
 ## ⚡ Objetivo
 
-Busco minha primeira oportunidade como estagiário na área de desenvolvimento para crescer profissionalmente e contribuir com projetos reais.
+Busco minha primeira oportunidade como estagiário na área de desenvolvimento, com o objetivo de aprender, evoluir e contribuir com projetos reais.
