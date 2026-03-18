@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Transformando+ideias+em+interfaces;HTML+%7C+CSS+%7C+JS+%7C+TypeScript;Sempre+aprendendo%2C+sempre+evoluindo..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Nerd+de+%C3%B3culos+%26+teclado+%F0%9F%A4%93;Do+hardware+ao+c%C3%B3digo+%E2%9A%A1;Transformando+telas+em+experi%C3%AAncias;Aberto+a+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -30,18 +30,19 @@ $ cat about.txt
 
 Nome    : Natanael Félix
 Role    : Frontend Developer
-Focus   : Interfaces modernas e responsivas
-Status  : 👾 Procurando estágio em Frontend
+Focus   : Transformar telas em experiências
+Status  : 👾 Aberto a estágio em Frontend
 Location: Brasil 🇧🇷
 ```
 
 <br/>
 
-- 🎓 Estudando **Desenvolvimento Fullstack**
-- 🎯 Foco atual em **Frontend & UX**
-- 🛠️ Construindo **Landing Pages** e projetos pessoais
-- 📈 Em evolução constante — *the grind never stops*
-- 💬 Manda um oi, adoro trocar ideia sobre tech!
+- 🤓 Nerd de óculos — cresci desmontando PC e aprendendo como tudo funciona por dentro
+- 💡 Migrei do hardware pro código porque percebi que o maior superpoder é **construir coisas do zero**
+- 🎨 Apaixonado por interfaces bem feitas — acredito que **design e código andam juntos**
+- 📚 Cursando Fullstack, com foco em Frontend enquanto construo base sólida
+- 🔨 Mão na massa: Landing Pages reais no portfólio, não só tutoriais
+- 🚀 Procuro meu primeiro estágio pra **transformar potencial em entrega**
 
 <br clear="right"/>
 
@@ -165,10 +166,11 @@ jobs:
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║  "Code is poetry. Ship it."          ║
-║                   — Natanael Félix   ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║  "Cresci desmontando hardware.                       ║
+║   Hoje monto experiências."                          ║
+║                              — Natanael Félix 🤓     ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NatsFJ&color=00ff41&style=flat-square&label=visitors)
