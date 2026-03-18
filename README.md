@@ -17,9 +17,9 @@
 
 ## Sobre mim
 
-Cresci desmontando computadores — hardware sempre foi minha linguagem. Hoje traduzo essa curiosidade técnica em interfaces cuidadosas e funcionais. Estou em formação Fullstack, com foco em Frontend, buscando meu primeiro estágio pra transformar o que aprendi em entrega real.
+Frontend Developer em formação. Comecei no hardware, aprendi como as máquinas funcionam por dentro — e hoje uso isso pra escrever código que faz sentido de verdade.
 
-> *"Bom design e bom código não são coisas separadas."*
+Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Estou buscando estágio em Frontend pra começar a contribuir de verdade.
 
 <br/>
 
