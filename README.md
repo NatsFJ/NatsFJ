@@ -26,11 +26,11 @@ Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu
 ## Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma&theme=dark" />
 </div>
 
 <div>
-  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" height="24"/></sub>
+  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,figma,nodejs&theme=dark" height="24"/></sub>
 </div>
 
 <br/>
@@ -56,7 +56,7 @@ Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu
 | # | Projeto | Stack |
 |---|---------|-------|
 | 01 | [Landing Page](https://github.com/NatsFJ) | HTML · CSS · JS |
-| 02 | Em breve | React · TS |
+| 02 | [Portfolio](| HTML · CSS |
 
 <br/>
 
