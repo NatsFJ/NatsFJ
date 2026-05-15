@@ -56,7 +56,7 @@ Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu
 | # | Projeto | Stack |
 |---|---------|-------|
 | 01 | [Landing Page](https://github.com/NatsFJ) | HTML · CSS · JS |
-| 02 | [Portfolio](| HTML · CSS |
+| 02 | [Portfolio](https://portfolio-pink-eta-90.vercel.app/)| HTML · CSS |
 
 <br/>
 
