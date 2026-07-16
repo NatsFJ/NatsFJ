@@ -17,9 +17,7 @@
 
 ## Sobre mim
 
-Frontend Developer em formação. Comecei no hardware, aprendi como as máquinas funcionam por dentro — e hoje uso isso pra escrever código que faz sentido de verdade.
-
-Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu objetivo é me tornar Fullstack — estou buscando estágio em Frontend pra dar o primeiro passo com consistência.
+Fullstack Developer com foco em Backend em formação. Desenvolvo aplicações utilizando JavaScript, Node.js, React e PostgreSQL. Atualmente construindo projetos próprios para aprofundar conhecimentos em APIs REST, bancos de dados e arquitetura de software.
 
 <br/>
 
@@ -30,7 +28,7 @@ Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu
 </div>
 
 <div>
-  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,figma,ts,nodejs&theme=dark" height="24"/></sub>
+  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,figma,ts,nodejs,postgresql,express,docker&theme=dark" height="24"/></sub>
 </div>
 
 <br/>
