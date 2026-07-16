@@ -29,7 +29,7 @@ Fullstack Developer com foco em Backend em formação. Desenvolvo aplicações u
 </div>
 
 <div>
-  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,react,ts,docker,figma&theme=dark" height="24"/></sub>
+  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgresql,docker,figma&theme=dark" height="24"/></sub>
 </div>
 
 <br/>
