@@ -6,7 +6,7 @@
 
 <p>Frontend Developer · Brasil 🇧🇷</p>
 
-  <a href="https://www.linkedin.com/in/natanael-felix-julio-a081b4274/" target: blank><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/natanael-felix-julio-a081b4274/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
