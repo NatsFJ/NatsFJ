@@ -24,11 +24,11 @@ Fullstack Developer com foco em Backend em formação. Desenvolvo aplicações u
 ## Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,git,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
 </div>
 
 <div>
-  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,figma,ts,nodejs,postgresql,express,docker&theme=dark" height="24"/></sub>
+  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,react,ts,docker,figma&theme=dark" height="24"/></sub>
 </div>
 
 <br/>
