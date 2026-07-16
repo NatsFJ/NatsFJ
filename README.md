@@ -26,11 +26,11 @@ Trabalho com HTML, CSS, JS e TS. Tenho projetos no ar, não só no tutorial. Meu
 ## Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,js&theme=dark" />
 </div>
 
 <div>
-  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,figma,js,ts,nodejs&theme=dark" height="24"/></sub>
+  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,figma,ts,nodejs&theme=dark" height="24"/></sub>
 </div>
 
 <br/>
