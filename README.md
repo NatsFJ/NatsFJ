@@ -10,7 +10,7 @@
   &nbsp;
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/NatsFJ"><img src="https://img.shields.io/badge/-Portfólio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" /></a> <br>
+  <a href="https://github.com/NatsFJ"><img src="https://img.shields.io/badge/-Portfólio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" /></a> <br><br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Boy in code">
 </div>
 
