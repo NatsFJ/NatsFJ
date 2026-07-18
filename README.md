@@ -34,13 +34,6 @@ Fullstack Developer com foco em Backend em formação. Desenvolvo aplicações u
 
 <br/>
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NatsFJ&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=6e6e6e&text_color=aaaaaa&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsFJ&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" height="150"/>
-</div>
 
 <br/>
 
