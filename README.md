@@ -4,36 +4,45 @@
 
 # Natanael Félix
 
-<p>Fullstack Developer · Brasil 🇧🇷</p>
+<p>Full Stack Developer · Brazil 🇧🇷</p>
 
-  <a href="https://www.linkedin.com/in/natanael-felix-julio-a081b4274/" target= "_blank"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/NatsFJ"><img src="https://img.shields.io/badge/-Portfólio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" /></a> <br><br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Boy in code">
+<a href="https://www.linkedin.com/in/natanael-felix-julio-a081b4274/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:youremail@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/NatsFJ">
+  <img src="https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Boy coding">
+
 </div>
 
 <br/>
 
-## Sobre mim
+## About Me
 
-Fullstack Developer com foco em Backend em formação. Desenvolvo aplicações utilizando JavaScript, Node.js, React e PostgreSQL. Atualmente construindo projetos próprios para aprofundar conhecimentos em APIs REST, bancos de dados e arquitetura de software.
+Aspiring Full Stack Developer with a strong focus on Backend development. I build applications using JavaScript, Node.js, React, and PostgreSQL. Currently developing personal projects to deepen my knowledge of REST APIs, databases, and software architecture.
 
 <br/>
 
-## Tecnologias
+## Technologies
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
 </div>
 
 <div>
-  <sub>Aprendendo → &nbsp;<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgresql,docker,figma&theme=dark" height="24"/></sub>
+  <sub>Currently Learning → &nbsp;
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgresql,docker,figma&theme=dark" height="24"/>
+  </sub>
 </div>
-
-<br/>
-
 
 <br/>
 
@@ -43,12 +52,12 @@ Fullstack Developer com foco em Backend em formação. Desenvolvo aplicações u
 
 <br/>
 
-## Projetos
+## Projects
 
-| # | Projeto | Stack |
+| # | Project | Stack |
 |---|---------|-------|
-| 01 | [Landing Page](https://landing-pages-rho-five.vercel.app/) | HTML · CSS · JS |
-| 02 | [Portfolio](https://portfolio-pink-eta-90.vercel.app/)| HTML · CSS |
+| 01 | [Landing Page](https://landing-pages-rho-five.vercel.app/) | HTML · CSS · JavaScript |
+| 02 | [Portfolio](https://portfolio-pink-eta-90.vercel.app/) | HTML · CSS |
 
 <br/>
 
