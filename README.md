@@ -28,7 +28,7 @@
 
 ## About Me
 
-Aspiring Full Stack Developer with a strong focus on Backend development. I build applications using JavaScript, Node.js, React, and PostgreSQL. Currently developing personal projects to deepen my knowledge of REST APIs, databases, and software architecture.
+ Full Stack Developer focused on Backend development. I build applications using JavaScript, Node.js, React, and PostgreSQL. Currently developing personal projects to deepen my knowledge of REST APIs, databases, and software architecture.
 
 <br/>
 
@@ -54,10 +54,6 @@ Aspiring Full Stack Developer with a strong focus on Backend development. I buil
 
 ## Projects
 
-| # | Project | Stack |
-|---|---------|-------|
-| 01 | [Landing Page](https://landing-pages-rho-five.vercel.app/) | HTML · CSS · JavaScript |
-| 02 | [Portfolio](https://portfolio-pink-eta-90.vercel.app/) | HTML · CSS |
 
 <br/>
 
