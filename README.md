@@ -13,9 +13,8 @@
 <a href="mailto:youremail@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/NatsFJ">
-  <img src="https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+
+
 </a>
 
 <br><br>
