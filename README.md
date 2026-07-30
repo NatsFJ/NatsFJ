@@ -57,10 +57,15 @@ Currently developing real-world projects using **React, Node.js, TypeScript and 
 
 Coming soon...
 
-- 📦 NetFlow Almoxarifado
-- 🌐 More projects under development
+### 📦 NetFlow Almoxarifado
 
----
+Real inventory management system for the textile industry.
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express • PostgreSQL • Prisma • Tailwind CSS
+
+> Repository in development...
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" />
