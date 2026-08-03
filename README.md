@@ -35,12 +35,12 @@ Currently developing real-world projects using **React, Node.js, TypeScript and 
 ## 🚀 Technologies
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postgresql&theme=dark" />
 </div>
 
 <div>
   <sub><strong>Currently Learning</strong></sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgresql,docker,figma&theme=dark" height="28"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,docker,figma&theme=dark" height="28"/>
 </div>
 
 ---
