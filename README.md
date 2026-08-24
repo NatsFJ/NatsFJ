@@ -6,7 +6,7 @@
 
 <p>Full Stack Developer • Backend Focused • Brazil 🇧🇷</p>
 
-<a href="https://www.linkedin.com/in/natanael-felix-julio-a081b4274/" target="_blank">
+<a href="https://www.linkedin.com/in/natanael-felix-a081b4274" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
