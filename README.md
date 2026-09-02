@@ -1,72 +1,77 @@
 <div align="center">
 
-<br/>
-
 # Natanael Félix
 
-<p>Full Stack Developer • Backend Focused • Brazil 🇧🇷</p>
+### Software Development Student • Backend Focused • Brazil 🇧🇷
 
-<a href="https://www.linkedin.com/in/natanael-felix-a081b4274" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:SEUEMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/natanael-felix-a081b4274)
 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full Stack Developer focused on backend development.
+Software Development student focused on **backend development** and building practical software solutions.
 
-Passionate about building scalable applications and solving real business problems through software.
+Currently developing projects using **Node.js, Express, PostgreSQL, TypeScript and React**, while continuously improving my knowledge of software development.
 
-Currently developing real-world projects using **React, Node.js, TypeScript and PostgreSQL**, while continuously improving my skills in software architecture, REST APIs and clean code.
+I'm especially interested in **backend development, REST APIs, databases, software architecture and cloud computing**.
+
+My goal is to keep building real projects, strengthen my software engineering fundamentals and start my professional career as a developer.
 
 ---
 
 ## 🚀 Technologies
 
-<div>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postgresql&theme=dark" />
-</div>
+</p>
 
-<div>
-  <sub><strong>Currently Learning</strong></sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,docker,figma&theme=dark" height="28"/>
-</div>
+### 📚 Currently Learning
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatsFJ&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,docker&theme=dark" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-Coming soon...
+### 📚 Library Manager API
 
-### 📦 NetFlow Almoxarifado
-
-Real inventory management system for the textile industry.
+REST API developed for managing books and practicing **backend development, database integration and API design**.
 
 **Tech Stack**
 
-React • TypeScript • Node.js • Express • PostgreSQL • Prisma • Tailwind CSS
+`Node.js` • `Express` • `PostgreSQL` • `Swagger`
 
-> Repository in development...
+🔗 [View Repository](https://github.com/NatsFJ/api-library-manager)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" />
-</div>
+---
+
+### 📦 Horitech Storage
+
+Inventory management project focused on applying software development concepts to a **real-world business scenario**.
+
+🔗 [View Repository](https://github.com/NatsFJ/horitech-storage)
+
+---
+
+## 📈 Contribution Graph
+
+[![Natanael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NatsFJ\&bg_color=0d1117\&color=58A6FF\&line=1F6FEB\&point=58A6FF\&area=true\&area_color=1F6FEB\&hide_border=true)](https://github.com/NatsFJ)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from the tech community and exchanging experiences about **backend development, software engineering and cloud computing**.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/natanael-felix-a081b4274)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer"/>
